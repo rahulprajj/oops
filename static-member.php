@@ -7,7 +7,8 @@
 //     public  static $name = "alice blue";
 //     public  static function show(){
 //         echo self::$name;
-//     }
+
+//   this is ccode for ooops  }
     
 
     
