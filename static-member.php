@@ -1,8 +1,13 @@
 <?php 
 
+// if we call the non static variable with the object( instance )than it is non-static variable and function.we use self instead of  of this.
+
+
 
 // used self place of this 
 // without objet used base 
+
+
 // class base {
 //     public  static $name = "alice blue";
 //     public  static function show(){
@@ -45,6 +50,11 @@ $test->show();
 
 // echo base::$name ."<br>";
 // base::show();
+
+
+
+
+//  code third
 
 
 
